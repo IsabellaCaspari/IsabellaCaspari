@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Check out my website to get more informations about me [https://isabellacaspari.github.io/](https://isabellacaspari.github.io/).
+
+mobile dev • android • kotlin • flutter • angular • outdoorsports • hope 
+
 <!--
 **IsabellaCaspari/IsabellaCaspari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
